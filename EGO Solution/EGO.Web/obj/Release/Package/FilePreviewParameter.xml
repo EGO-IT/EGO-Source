@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="egowebsite" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\nhlakanipho\\documents\\visual\ studio\ 2013\\Projects\\EGO\ Solution\\EGO\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\nhlakanipho\\documents\\visual\ studio\ 2013\\Projects\\EGO\ Solution\\EGO\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="EGOConnection-Web.config Connection String" description="" value="Data Source=tcp:n0zi101rrh.database.windows.net,1433;Initial Catalog=egowebsA8853XRJA;User Id=Nhlaka@n0zi101rrh;Password=Zxcvbnm,1" tags="">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\nhlakanipho\\documents\\visual\ studio\ 2013\\Projects\\EGO\ Solution\\EGO\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EGOConnection']/@connectionString" />
+  </parameter>
+</parameters>

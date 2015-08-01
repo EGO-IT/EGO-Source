@@ -1,0 +1,30 @@
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\EGO.Model.dll.config
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\EGO.Model.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\EGO.Model.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\EntityFramework.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\EntityFramework.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\obj\Debug\EGO.Model.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\obj\Debug\EGO.Model.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\Microsoft.Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\bin\Debug\Microsoft.Owin.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Model\obj\Debug\EGO.Model.csprojResolveAssemblyReference.cache
+G:\EGO Solution\EGO.Model\obj\Debug\EGO.Model.csprojResolveAssemblyReference.cache
+G:\EGO Solution\EGO.Model\obj\Debug\EGO.Model.dll
+G:\EGO Solution\EGO.Model\obj\Debug\EGO.Model.pdb
+G:\EGO Solution\EGO.Model\bin\Debug\EGO.Model.dll.config
+G:\EGO Solution\EGO.Model\bin\Debug\EGO.Model.dll
+G:\EGO Solution\EGO.Model\bin\Debug\EGO.Model.pdb
+G:\EGO Solution\EGO.Model\bin\Debug\EntityFramework.dll
+G:\EGO Solution\EGO.Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\EGO Solution\EGO.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\EGO Solution\EGO.Model\bin\Debug\Microsoft.Owin.dll
+G:\EGO Solution\EGO.Model\bin\Debug\Owin.dll
+G:\EGO Solution\EGO.Model\bin\Debug\EntityFramework.xml
+G:\EGO Solution\EGO.Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\EGO Solution\EGO.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\EGO Solution\EGO.Model\bin\Debug\Microsoft.Owin.xml

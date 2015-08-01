@@ -1,0 +1,53 @@
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\EGO.Data.dll.config
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\EGO.Data.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\EGO.Data.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\EntityFramework.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Newtonsoft.Json.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\EntityFramework.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\bin\Debug\Newtonsoft.Json.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\obj\Debug\EGO.Data.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Data\obj\Debug\EGO.Data.pdb
+G:\EGO Solution\EGO.Data\bin\Debug\EGO.Data.dll.config
+G:\EGO Solution\EGO.Data\bin\Debug\EGO.Data.dll
+G:\EGO Solution\EGO.Data\bin\Debug\EGO.Data.pdb
+G:\EGO Solution\EGO.Data\bin\Debug\EntityFramework.dll
+G:\EGO Solution\EGO.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Newtonsoft.Json.dll
+G:\EGO Solution\EGO.Data\bin\Debug\Owin.dll
+G:\EGO Solution\EGO.Data\bin\Debug\EntityFramework.xml
+G:\EGO Solution\EGO.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+G:\EGO Solution\EGO.Data\bin\Debug\Newtonsoft.Json.xml
+G:\EGO Solution\EGO.Data\obj\Debug\EGO.Data.csprojResolveAssemblyReference.cache
+G:\EGO Solution\EGO.Data\obj\Debug\EGO.Data.dll
+G:\EGO Solution\EGO.Data\obj\Debug\EGO.Data.pdb

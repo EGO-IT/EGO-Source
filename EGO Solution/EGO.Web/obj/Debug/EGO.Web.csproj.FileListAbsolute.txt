@@ -1,0 +1,126 @@
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\obj\Debug\EGO.Web.csprojResolveAssemblyReference.cache
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Web.dll.config
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Web.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Web.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Antlr3.Runtime.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Data.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Model.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EntityFramework.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EntityFramework.SqlServer.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Newtonsoft.Json.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Helpers.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Mvc.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Optimization.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Razor.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.WebPages.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\WebGrease.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Data.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Model.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Helpers.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Mvc.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Optimization.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.Razor.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.WebPages.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Antlr3.Runtime.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Newtonsoft.Json.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EntityFramework.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EntityFramework.SqlServer.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\obj\Debug\EGO.Web.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\obj\Debug\EGO.Web.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.BusinessLogic.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.BusinessLogic.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Service.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.Web\bin\EGO.Service.pdb
+G:\EGO Solution\EGO.Web\bin\EGO.Web.dll.config
+G:\EGO Solution\EGO.Web\bin\EGO.Web.dll
+G:\EGO Solution\EGO.Web\bin\EGO.Web.pdb
+G:\EGO Solution\EGO.Web\bin\Antlr3.Runtime.dll
+G:\EGO Solution\EGO.Web\bin\EGO.BusinessLogic.dll
+G:\EGO Solution\EGO.Web\bin\EGO.Data.dll
+G:\EGO Solution\EGO.Web\bin\EGO.Model.dll
+G:\EGO Solution\EGO.Web\bin\EntityFramework.dll
+G:\EGO Solution\EGO.Web\bin\EntityFramework.SqlServer.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Core.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Cookies.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Facebook.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Google.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.OAuth.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Twitter.dll
+G:\EGO Solution\EGO.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\EGO Solution\EGO.Web\bin\Newtonsoft.Json.dll
+G:\EGO Solution\EGO.Web\bin\Owin.dll
+G:\EGO Solution\EGO.Web\bin\System.Web.Helpers.dll
+G:\EGO Solution\EGO.Web\bin\System.Web.Mvc.dll
+G:\EGO Solution\EGO.Web\bin\System.Web.Optimization.dll
+G:\EGO Solution\EGO.Web\bin\System.Web.Razor.dll
+G:\EGO Solution\EGO.Web\bin\System.Web.WebPages.Deployment.dll
+G:\EGO Solution\EGO.Web\bin\System.Web.WebPages.dll
+G:\EGO Solution\EGO.Web\bin\System.Web.WebPages.Razor.dll
+G:\EGO Solution\EGO.Web\bin\WebGrease.dll
+G:\EGO Solution\EGO.Web\bin\EGO.Service.dll
+G:\EGO Solution\EGO.Web\bin\EGO.BusinessLogic.pdb
+G:\EGO Solution\EGO.Web\bin\EGO.Data.pdb
+G:\EGO Solution\EGO.Web\bin\EGO.Model.pdb
+G:\EGO Solution\EGO.Web\bin\System.Web.Helpers.xml
+G:\EGO Solution\EGO.Web\bin\System.Web.Mvc.xml
+G:\EGO Solution\EGO.Web\bin\System.Web.Optimization.xml
+G:\EGO Solution\EGO.Web\bin\System.Web.Razor.xml
+G:\EGO Solution\EGO.Web\bin\System.Web.WebPages.xml
+G:\EGO Solution\EGO.Web\bin\System.Web.WebPages.Deployment.xml
+G:\EGO Solution\EGO.Web\bin\System.Web.WebPages.Razor.xml
+G:\EGO Solution\EGO.Web\bin\Antlr3.Runtime.pdb
+G:\EGO Solution\EGO.Web\bin\Newtonsoft.Json.xml
+G:\EGO Solution\EGO.Web\bin\EntityFramework.xml
+G:\EGO Solution\EGO.Web\bin\EntityFramework.SqlServer.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Core.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Facebook.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Cookies.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.OAuth.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Google.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.Twitter.xml
+G:\EGO Solution\EGO.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\EGO Solution\EGO.Web\bin\EGO.Service.pdb
+G:\EGO Solution\EGO.Web\obj\Debug\EGO.Web.csprojResolveAssemblyReference.cache
+G:\EGO Solution\EGO.Web\obj\Debug\EGO.Web.dll
+G:\EGO Solution\EGO.Web\obj\Debug\EGO.Web.pdb

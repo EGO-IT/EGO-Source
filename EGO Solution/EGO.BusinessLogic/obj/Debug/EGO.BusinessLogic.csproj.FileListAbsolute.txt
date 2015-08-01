@@ -1,0 +1,72 @@
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.BusinessLogic.dll.config
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.BusinessLogic.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.BusinessLogic.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Helpers.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Mvc.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Razor.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Helpers.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Razor.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\obj\Debug\EGO.BusinessLogic.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\obj\Debug\EGO.BusinessLogic.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Data.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Model.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Service.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Owin.dll
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Data.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Model.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Service.pdb
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.Owin.xml
+c:\users\nhlakanipho\documents\visual studio 2013\Projects\EGO Solution\EGO.BusinessLogic\obj\Debug\EGO.BusinessLogic.csprojResolveAssemblyReference.cache
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.BusinessLogic.dll.config
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.BusinessLogic.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.BusinessLogic.pdb
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Data.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Model.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Service.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Helpers.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Mvc.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Razor.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.Owin.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Owin.dll
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Data.pdb
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Model.pdb
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EGO.Service.pdb
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Helpers.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Mvc.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.Razor.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\System.Web.WebPages.Razor.xml
+G:\EGO Solution\EGO.BusinessLogic\bin\Debug\Microsoft.Owin.xml
+G:\EGO Solution\EGO.BusinessLogic\obj\Debug\EGO.BusinessLogic.csprojResolveAssemblyReference.cache
+G:\EGO Solution\EGO.BusinessLogic\obj\Debug\EGO.BusinessLogic.dll
+G:\EGO Solution\EGO.BusinessLogic\obj\Debug\EGO.BusinessLogic.pdb
