@@ -12,7 +12,7 @@ namespace EGO.Web.Controllers
     [Authorize]
     public class ManageController : Controller
     {
-int i = 0;
+ 
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
