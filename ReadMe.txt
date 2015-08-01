@@ -1,0 +1,1 @@
+This is a Team Foundation Repository please see Git.com Commiting , Pushing etc.
